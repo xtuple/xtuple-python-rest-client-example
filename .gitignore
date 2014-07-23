@@ -52,3 +52,9 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Keys
+*.pem
+*.p12
+
+# Mac OS X
+.DS_Store
